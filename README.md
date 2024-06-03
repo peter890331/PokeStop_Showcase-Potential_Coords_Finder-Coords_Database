@@ -10,7 +10,7 @@ PokeStop_Showcase-Potential_Coords_Finder-Coords_Database, made by Peter Yu.
 <img src= "https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-Coords_Database/blob/figures/pokemon_go_icon.png" width="300px">
 
 ## 座標資料庫更新日誌
-2024/05/16：添加 0 個潛在座標，共 0 個潛在座標。    
+2024/05/16：添加 &nbsp;&nbsp;0 個潛在座標，共 &nbsp;&nbsp;0 個潛在座標。    
 2024/05/19：添加 14 個潛在座標，共 14 個潛在座標。    
 2024/05/26：添加 21 個潛在座標，共 35 個潛在座標。    
 2024/06/02：添加 18 個潛在座標，共 53 個潛在座標。    
