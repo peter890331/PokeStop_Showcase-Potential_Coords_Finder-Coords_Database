@@ -14,6 +14,7 @@ PokeStop_Showcase-Potential_Coords_Finder-Coords_Database, made by Peter Yu.
 2024/05/19：添加 14 個潛在座標，共 14 個潛在座標。    
 2024/05/26：添加 21 個潛在座標，共 35 個潛在座標。    
 2024/06/02：添加 18 個潛在座標，共 53 個潛在座標。    
+2024/12/02：添加 &nbsp;&nbsp;2 個潛在座標，共 55 個潛在座標。    
 
 ## Webpage
 ### 寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version)
